@@ -1,4 +1,4 @@
-##fileformat=VCFv4.1
+##fileformat=VCFTabix
 ##fileDate=20200702
 ##source=freeBayes v1.0.2
 ##reference=/database/ucsc.hg19.fa
