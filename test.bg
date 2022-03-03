@@ -1,0 +1,16 @@
+track type=bedGraph name=“R1p_GATA2_veh29.bed” description=”R1_plus_GATA2_veh29” visibility=full color=255,0,0 altColor=0,100,200 priority=20
+chr1    10000   10001   1
+chr1    10001   10003   2
+chr1    10003   10004   4
+chr1    10004   10005   9
+chr1    10005   10029   12
+chr1    10029   10050   13
+chr1    10050   10051   12
+chr1    10051   10053   11
+chr1    10053   10054   9
+chr1    10054   10055   4
+chr1    10055   10065   1
+chr1    10065   10069   2
+chr1    10069   10073   3
+chr1    10073   10079   4
+chr1    10079   10109   3
