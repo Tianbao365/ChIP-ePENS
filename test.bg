@@ -1,4 +1,4 @@
-track type=bedGraph name=“R1p_GATA2_veh29.bed” description=”R1_plus_GATA2_veh29” visibility=full color=255,0,0 altColor=0,100,200 priority=20
+track type=bedGraph name=R1p_GATA2_veh29.bed description=R1_plus_GATA2_veh29 visibility=full color=255,0,0 altColor=0,100,200 priority=20
 chr1    10000   10001   1
 chr1    10001   10003   2
 chr1    10003   10004   4
